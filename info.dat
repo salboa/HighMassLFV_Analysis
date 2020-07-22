@@ -1,0 +1,35 @@
+etau channel
+
+NoBjet/QcdReg1_SS/ :     NoBjet/QcdReg1_SS_1p/ :   NoBjet/QcdReg1_SS_3p/ : 
+    Data    = 33545	     Data    = 5755            Data    = 27790	
+    Top     = 288.479	     Top     = 44.0859         Top     = 244.393	
+    Db      = 26.7493	     Db      = 5.42209         Db      = 21.3272	
+    DY      = 363.936	     DY      = 63.4818         DY      = 300.454	
+    Wj      = 886.307	     Wj      = 123.706         Wj      = 762.601	
+    Data-MC = 31979.5	     Data-MC = 5518.3          Data-MC = 26461.2   
+
+NoBjet/QcdReg2_SS/ :     NoBjet/QcdReg2_SS_1p/ :   NoBjet/QcdReg2_SS_3p/ :
+    Data    = 5842	     Data    = 3820            Data    = 2022     
+    Top     = 258.491	     Top     = 162.355         Top     = 96.1359  
+    Db      = 110.394	     Db      = 76.0001         Db      = 34.3935  
+    DY      = 1004.41	     DY      = 690.37          DY      = 314.037  
+    Wj      = 1368.16	     Wj      = 583.155         Wj      = 785.003  
+    Data-MC = 3100.55	     Data-MC = 2308.12         Data-MC = 792.431  
+
+mutau channel
+
+NoBjet/QcdReg1_SS/ :    NoBjet/QcdReg1_SS_1p/ :  NoBjet/QcdReg1_SS_3p/ :
+    Data    = 5509	    Data    = 935      	     Data    = 4574     
+    Top     = 47.8035	    Top     = 4.17935  	     Top     = 43.6241  
+    Db      = 9.94551	    Db      = 4.00737  	     Db      = 5.93814  
+    DY      = 94.786	    DY      = 14.7272  	     DY      = 80.0588  
+    Wj      = 159.522	    Wj      = 33.1741  	     Wj      = 126.348  
+    Data-MC = 5196.94	    Data-MC = 878.912  	     Data-MC = 4318.03  
+
+NoBjet/QcdReg2_SS/ :    NoBjet/QcdReg2_SS_1p/ :  NoBjet/QcdReg2_SS_3p/ :
+    Data    = 2447	    Data    = 1536     	     Data    = 911      
+    Top     = 159.103	    Top     = 103.458  	     Top     = 55.6451  
+    Db      = 72.3145	    Db      = 48.1093  	     Db      = 24.2052  
+    DY      = 618.826	    DY      = 405.612  	     DY      = 213.215  
+    Wj      = 950.957	    Wj      = 443.656  	     Wj      = 507.301  
+    Data-MC = 645.799	    Data-MC = 535.165  	     Data-MC = 110.634  
